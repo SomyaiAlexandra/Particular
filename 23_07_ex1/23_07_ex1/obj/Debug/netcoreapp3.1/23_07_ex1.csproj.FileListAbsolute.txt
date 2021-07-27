@@ -1,0 +1,12 @@
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.exe
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.deps.json
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.runtimeconfig.json
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.runtimeconfig.dev.json
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.dll
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\bin\Debug\netcoreapp3.1\23_07_ex1.pdb
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.AssemblyInfoInputs.cache
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.AssemblyInfo.cs
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.csproj.CoreCompileInputs.cache
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.dll
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.pdb
+C:\Users\somya\source\repos\Particular2\23_07_ex1\23_07_ex1\obj\Debug\netcoreapp3.1\23_07_ex1.genruntimeconfig.cache
